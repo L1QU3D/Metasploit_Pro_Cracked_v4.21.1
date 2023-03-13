@@ -20,6 +20,14 @@ Next, to run Metasploit itself, you will need to go to the root directory and ru
 
 ![image](https://user-images.githubusercontent.com/108927927/194064138-a02bd46e-7f55-419e-b492-a9f77d7af7c2.png)
 
-Metasploit also has a Web UI it can be run by https://localhost:3790 ( loginpass - https://pastebin.com/YTV33X13 )and the interface will be immediately available to you. You can run testing right here. To do this, you can create your own project. To do this, select the type of pentest, enter the name and the attacked host and click start a scandal, its scanner will do everything for you. Web UI Screen:
+Metasploit also has a Web UI it can be run by https://localhost:3790 
+Loginpass:
+Username : zer0daylab
+Password : Zer0daylab0#
+ 
+Full Name : Zer0DayLab
+Email Address : hello@zerodaylab.us
+Organization : Zer0DayLab Crew 
+And the interface will be immediately available to you. You can run testing right here. To do this, you can create your own project. To do this, select the type of pentest, enter the name and the attacked host and click start a scandal, its scanner will do everything for you. Web UI Screen:
 
 ![image](https://user-images.githubusercontent.com/108927927/194064177-d6691820-349c-4ff2-8443-3b3682c4570a.png)
